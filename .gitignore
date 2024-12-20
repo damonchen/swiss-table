@@ -1,0 +1,18 @@
+# 编译生成的文件
+*.o
+*.out
+*.exe
+test
+
+# IDE/编辑器生成的文件
+.vscode/
+.idea/
+*.swp
+*~
+
+# 调试文件
+*.dSYM/
+
+# 系统文件
+.DS_Store
+Thumbs.db 
